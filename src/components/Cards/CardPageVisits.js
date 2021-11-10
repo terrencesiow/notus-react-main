@@ -45,7 +45,7 @@ export default function CardPageVisits() {
             <tbody>
               <tr>
                 <th className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4 text-left">
-                  /argon/
+                <a href="https://www.time.com.my/personal/broadband/fibre-broadband" target="_blank" rel="noopener noreferrer">https://www.time.com.my/personal/broadband/fibre-broadband</a>
                 </th>
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
                   4,569
@@ -60,7 +60,7 @@ export default function CardPageVisits() {
               </tr>
               <tr>
                 <th className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4 text-left">
-                  /argon/index.html
+                <a href="https://www.time.com.my/support/faq?search=&cat=10" target="_blank" rel="noopener noreferrer">https://www.time.com.my/support/faq?search=&cat=10</a>
                 </th>
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
                   3,985
@@ -75,7 +75,7 @@ export default function CardPageVisits() {
               </tr>
               <tr>
                 <th className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4 text-left">
-                  /argon/charts.html
+                <a href="https://www.time.com.my/check-application-status" target="_blank" rel="noopener noreferrer">https://www.time.com.my/check-application-status</a>
                 </th>
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
                   3,513
@@ -90,7 +90,7 @@ export default function CardPageVisits() {
               </tr>
               <tr>
                 <th className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4 text-left">
-                  /argon/tables.html
+                <a href="https://www.time.com.my/small-business/broadband/fibre-business-broadband" target="_blank" rel="noopener noreferrer">https://www.time.com.my/small-business/broadband/fibre-business-broadband</a>
                 </th>
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
                   2,050
@@ -105,7 +105,7 @@ export default function CardPageVisits() {
               </tr>
               <tr>
                 <th className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4 text-left">
-                  /argon/profile.html
+                <a href="https://testyourspeed.time.com.my/index2.php" target="_blank" rel="noopener noreferrer">https://testyourspeed.time.com.my/index2.php</a>
                 </th>
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
                   1,795

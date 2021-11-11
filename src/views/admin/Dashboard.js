@@ -8,6 +8,7 @@ import CardLineChart from "components/Cards/CardLineChart.js";
 import CardTable from "components/Cards/CardTableEdit.js";
 import CardPageVisits from "components/Cards/CardPageVisits.js";
 import CardSocialTraffic from "components/Cards/CardSocialTraffic.js";
+import MapExample from "components/Maps/MapExample.js";
 
 export default function Dashboard() {
   return (

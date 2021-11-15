@@ -60,7 +60,7 @@ export default function CardPageVisits() {
               </tr>
               <tr>
                 <th className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4 text-left">
-                  BANGUNAN RHB - JALAN TUN RAZAK - CSA(ELU
+                  BANGUNAN RHB - JALAN TUN RAZAK - CSA(ELU)
                 </th>
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
                   10.2%

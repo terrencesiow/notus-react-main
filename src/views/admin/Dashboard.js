@@ -8,7 +8,7 @@ import CardLineChart from "components/Cards/CardLineChart.js";
 import CardTable from "components/Cards/CardTableEdit.js";
 import CardPageVisits from "components/Cards/CardPageVisits.js";
 import CardSocialTraffic from "components/Cards/CardSocialTraffic.js";
-import MapExample from "components/Maps/MapExample.js";
+import CardRecommedation from "components/Cards/CardRecommedation.js";
 
 export default function Dashboard() {
   return (
@@ -19,6 +19,11 @@ export default function Dashboard() {
         </div>
         <div className="w-full xl:w-4/12 mb-12 xl:mb-0 px-4">
           <CardTable />
+        </div>
+      </div>
+      <div className="flex flex-wrap">
+        <div className="w-full xl:w-10/12 mb-12 xl:mb-0 px-4">
+          <CardRecommedation />
         </div>
       </div>
       <div className="flex flex-wrap mt-4">
